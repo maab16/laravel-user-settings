@@ -7,7 +7,7 @@ Simple user settings facade for Laravel 6. Settings are stored as JSON in a sing
 
 
 ## Installation
-1. Run `maab16/laravel-user-settings` to include this in your project.
+1. Run `composer require maab16/laravel-user-settings` to include this in your project.
 
 2. Only for version 2.1.2 or lower. Add `'Grimthorr\LaravelUserSettings\ServiceProvider'` to `providers` in `config/app.php`.
 
